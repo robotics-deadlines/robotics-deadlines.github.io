@@ -129,6 +129,19 @@
   place: Barcelona, Spain
   sub: NLP
 
+- title: WAFR
+  hindex: 41
+  year: 2022
+  id: wafr22
+  link: https://wafr2022.github.io/
+  deadline: '2022-02-07 23:59:59'
+  abstract_deadline: '2022-02-01 23:59:59'
+  timezone: UTC-12
+  date: June 20-22, 2022
+  place: Oulu, Finland
+  sub: RO
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 01, 2022. More info <a href=''https://wafr2022.github.io/''>here</a>.'
+
 - title: ACCV
   hindex: 38
   year: 2020
