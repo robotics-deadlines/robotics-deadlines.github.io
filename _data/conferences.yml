@@ -276,24 +276,24 @@
 
 - title: IROS
   hindex: 58
-  year: 2021
-  id: iros21
-  link: https://www.iros2021.org/important-dates
-  deadline: '2021-03-01 23:59:59'
+  year: 2022
+  id: iros22
+  link: https://iros2022.org/call-for-papers/
+  deadline: '2022-03-01 23:59:59'
   timezone: America/Los_Angeles
-  date: Sep 27-Oct 1, 2021
-  place: Prague, Czech Republic
+  date: Oct 23-27, 2022
+  place: Kyoto, Japan
   sub: RO
 
 - title: RSS
   hindex: 47
-  year: 2021
-  id: rss21
+  year: 2022
+  id: rss22
   link: https://roboticsconference.org/
-  deadline: '2021-03-01 23:59:59'
+  deadline: '2022-01-28 23:59:59'
   timezone: UTC-12
-  date: Jul 12-16, 2021
-  place: Online
+  date: June 27-July 1, 2022
+  place: New York City, USA
   sub: RO
 
 - title: ICCV
